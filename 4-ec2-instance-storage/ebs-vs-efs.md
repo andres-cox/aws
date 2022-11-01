@@ -23,4 +23,3 @@ Only for Linux Instances (POSIX)
 
 EFS has a higher price point than EBS
 Can leverage EFS-IA for cost savings
-
