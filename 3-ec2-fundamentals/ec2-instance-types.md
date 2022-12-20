@@ -9,7 +9,7 @@ m: instance class
 2xlarge: size within the instance
 
 # General Purpose
-Balance Between: Compute, Memory and Networking (starts with 't') (t2.micro)
+Balance Between: Compute, Memory and Networking (starts with 't','m') (t2.micro)
 
 # Compute Optimized
 Great for compute-intensive tasks that require high performance processors (starts with 'c')

@@ -56,7 +56,7 @@ Dedicated Hosts can help you address "compliance requirements" and reduce costs 
 - Allocated for your account for a 3-year period reservation
 - More expensive
 
-- Useful for software that ahve complicated licensing model (BYOL - bring Your Own License)
+- Useful for software that have complicated licensing model (BYOL - bring Your Own License)
 - Or for companies that have strong regulatory or compliance needs
 
 # EC2 Dedicated Instances
