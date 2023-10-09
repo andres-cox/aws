@@ -1,6 +1,6 @@
 # AWS Athena
 
-Severless service to perform analytics directly against S3 files
+Serverless service to perform analytics directly against S3 files
 
 Uses SQL language to query the files
 
@@ -12,7 +12,7 @@ Supports CSV,JSON,ORC,Avro, and Parquet (built on Presto)
 
 Use cases: Business intelligence / analytics / reporting, analyze & query VPC Flow Logs, ELB Logs, CloudTrail trails, etc...
 
-Exam tip: Analize data directly on S3 => Use Athena
+Exam tip: Analyze data directly on S3 => Use Athena
 
  
 
