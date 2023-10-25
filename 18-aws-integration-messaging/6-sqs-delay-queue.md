@@ -1,0 +1,6 @@
+# Amazon SQS - Delay Queue
+
+Delay a message (consumers don't see it immediately) up to 15 minutes   
+Default is 0 seconds (message is available right away)
+Can set a default at queue level
+Can override the default on send using the DelaySeconds parameter
