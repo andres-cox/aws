@@ -51,7 +51,7 @@ Partition key must be unique for each item
 Partition key must be "diverse" so that the data is distributed
 Example: user_id for a users table
 
-Option 2: Partiton key + Sort key
+Option 2: Partition key + Sort key
 The combination must be unique
 Data is grouped by partition key
 Sort key == range key
